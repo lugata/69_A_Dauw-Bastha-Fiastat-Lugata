@@ -1,0 +1,114 @@
+{
+    "data":[
+            {
+                "judul": "Photography", 
+                "foto": "/assets/Photography.png",
+                "bdeskripsi": "Lorem ipsum",
+                "deskripsi": "dolor sit amet, consectetur. ullamcorper tellus id nibh urna. Fermentum ullamcorper tellus id nibh urna. Faucibus tellus facilisis molestie amet nisl.",
+                "jenis1": "FORMAL",
+                "jenis2": "UNFORMAL",
+                "menulist": "Per-Foto",
+                "daftar": [{ 
+                    "paket1": ["2x3", "2", "Rp. 1"],
+                    "bagian1": ["3", "Rp. 1"],
+                    "paket2": ["3x4", "2", "Rp. 2"],
+                    "bagian2": ["3", "Rp. 2"],
+                    "paket3": ["4x6", "2", "Rp. 3"],
+                    "bagian3": ["3", "Rp. 3"],
+                    "paket4": ["2R", "1", "Rp. 4"],
+                    "bagian4": ["2", "Rp. 4"],
+                    "paket5": ["3R", "1", "Rp. 5"],
+                    "bagian5": ["2", "Rp. 5"],
+                    "paket6": ["4R", "1", "Rp. 6"],
+                    "bagian6": ["2", "Rp. 6"],
+                    "paket7": ["10RS", "1", "Rp. 7"],
+                    "bagian7": ["2", "Rp. 7"]
+                }
+                ]
+            },
+     
+            {
+                "judul": "Editing", 
+                "foto": "/assets/PEditing.png",
+                "bdeskripsi": "Lorem ipsum",
+                "deskripsi": "dolor sit amet, consectetur. ullamcorper tellus id nibh urna. Fermentum ullamcorper tellus id nibh urna. Faucibus tellus facilisis molestie amet nisl.",
+                "jenis1": "HARD",
+                "jenis2": "EASY",
+                "menulist": "Minimum",
+                "daftar": [{ 
+                    "paket1": ["2x3", "2", "Rp. 1"],
+                    "bagian1": ["3", "Rp. 1"],
+                    "paket2": ["3x4", "2", "Rp. 2"],
+                    "bagian2": ["3", "Rp. 2"],
+                    "paket3": ["4x6", "2", "Rp. 3"],
+                    "bagian3": ["3", "Rp. 3"],
+                    "paket4": ["2R", "1", "Rp. 4"],
+                    "bagian4": ["2", "Rp. 4"],
+                    "paket5": ["3R", "1", "Rp. 5"],
+                    "bagian5": ["2", "Rp. 5"],
+                    "paket6": ["4R", "1", "Rp. 6"],
+                    "bagian6": ["2", "Rp. 6"],
+                    "paket7": ["10RS", "1", "Rp. 7"],
+                    "bagian7": ["2", "Rp. 7"]
+                }
+                ] 
+            },
+        
+            {
+                "judul": "Design", 
+                "foto": "/assets/PDesign.png",
+                "bdeskripsi": "Lorem ipsum",
+                "deskripsi": "dolor sit amet, consectetur. ullamcorper tellus id nibh urna. Fermentum ullamcorper tellus id nibh urna. Faucibus tellus facilisis molestie amet nisl.",
+                "jenis1": "CREATIVE",
+                "jenis2": "BASIC",
+                "menulist": "Per-Design",
+                "daftar": [{ 
+                    "paket1": ["2x3", "2", "Rp. 1"],
+                    "bagian1": ["3", "Rp. 1"],
+                    "paket2": ["3x4", "2", "Rp. 2"],
+                    "bagian2": ["3", "Rp. 2"],
+                    "paket3": ["4x6", "2", "Rp. 3"],
+                    "bagian3": ["3", "Rp. 3"],
+                    "paket4": ["2R", "1", "Rp. 4"],
+                    "bagian4": ["2", "Rp. 4"],
+                    "paket5": ["3R", "1", "Rp. 5"],
+                    "bagian5": ["2", "Rp. 5"],
+                    "paket6": ["4R", "1", "Rp. 6"],
+                    "bagian6": ["2", "Rp. 6"],
+                    "paket7": ["10RS", "1", "Rp. 7"],
+                    "bagian7": ["2", "Rp. 7"]
+                }
+                ]
+            },
+
+
+                {
+                "judul": "Printing", 
+                "foto": "/assets/Printing.png",
+                "bdeskripsi": "Lorem ipsum",
+                "deskripsi": "dolor sit amet, consectetur. ullamcorper tellus id nibh urna. Fermentum ullamcorper tellus id nibh urna. Faucibus tellus facilisis molestie amet nisl.",
+                "jenis1": "SURELAB",
+                "jenis2": "PRINT FOTO",
+                "menulist": "Minimum",
+                "daftar": [{ 
+                    "paket1": ["2x3", "2", "Rp. 1"],
+                    "bagian1": ["3", "Rp. 1"],
+                    "paket2": ["3x4", "2", "Rp. 2"],
+                    "bagian2": ["3", "Rp. 2"],
+                    "paket3": ["4x6", "2", "Rp. 3"],
+                    "bagian3": ["3", "Rp. 3"],
+                    "paket4": ["2R", "1", "Rp. 4"],
+                    "bagian4": ["2", "Rp. 4"],
+                    "paket5": ["3R", "1", "Rp. 5"],
+                    "bagian5": ["2", "Rp. 5"],
+                    "paket6": ["4R", "1", "Rp. 6"],
+                    "bagian6": ["2", "Rp. 6"],
+                    "paket7": ["10RS", "1", "Rp. 7"],
+                    "bagian7": ["2", "Rp. 7"]
+                }
+                ]
+     }
+
+    ]
+}
+
